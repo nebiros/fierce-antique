@@ -1,0 +1,15 @@
+PODS:
+  - Charts (2.1.6)
+  - RequestUtils (1.1.1)
+
+DEPENDENCIES:
+  - Charts
+  - RequestUtils (~> 1.1)
+
+SPEC CHECKSUMS:
+  Charts: 5e1e5ac23898e5b09d226a2fc3e9d86bc281937e
+  RequestUtils: f22e42601cfc46bf854861d297f990df2e06b9ef
+
+PODFILE CHECKSUM: 98fab408b2e252bf7f17f20a3107303452ad6f6d
+
+COCOAPODS: 1.0.1

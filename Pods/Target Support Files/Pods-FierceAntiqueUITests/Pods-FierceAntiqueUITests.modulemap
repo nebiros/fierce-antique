@@ -1,0 +1,6 @@
+framework module Pods_FierceAntiqueUITests {
+  umbrella header "Pods-FierceAntiqueUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
